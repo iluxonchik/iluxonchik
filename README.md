@@ -1,16 +1,13 @@
-### Hi there 👋
+# Illya Gerasymchuk - DeFi, Zero-Knowledge, Blockchain and AI
 
-<!--
-**iluxonchik/iluxonchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm Illya, an entrepreneur and engineer deeply invested in the realms of DeFi, Zero-Knowledge, Blockchain, and AI. As a TLS 1.3 Contributor and Contributing Member of the Python Software Foundation, I'm passionate about developing revolutionary products that redefine our interactions with money and bolster our digital privacy.
 
-Here are some ideas to get you started:
+## 🚀 Current Project: zkLocus
+My latest venture, [zkLocus](https://github.com/iluxonchik/zkLocus), is at the forefront of location authentication technology. This project enables service providers to verify users' geographical locations while rigorously protecting their privacy, all powered by cutting-edge ZK-SNARK proofs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💭 My Thoughts
+- **Blog**: Dive into my thoughts on blockchain, DeFi, AI, and more on my [blog](https://illya.sh/blog/). It's where I connect deep technical concepts with real-world applications.
+
+## 📫 Get in Touch
+- [illya.sh](https://illya.sh) is my main website. There you can find my contact information, as well as learn more about my current ventures.
+- [GitHub/iluxonchik](https://github.com/iluxonchik) is where you can find all of the engineering source, and my contributions.
