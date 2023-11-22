@@ -11,3 +11,4 @@ My latest venture, [zkLocus](https://github.com/iluxonchik/zkLocus), is at the f
 ## 📫 Get in Touch
 - [illya.sh](https://illya.sh) is my main website. There you can find my contact information, as well as learn more about my current ventures.
 - [GitHub/iluxonchik](https://github.com/iluxonchik) is where you can find all of the engineering source, and my contributions.
+- [illya.sh/blog](https://illya.sh/blog) serves as a platform for me to articulate my thoughts on blockchain, DeFi, Zero-Knowledge cryptography, AI and finance. Here I merge deep technical concepts with practical applications.
