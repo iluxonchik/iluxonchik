@@ -6,6 +6,7 @@
 My latest venture, [zkLocus](https://zklocus.dev), is at the forefront of location authentication technology. This project enables service providers to verify users' geographical locations while rigorously protecting their privacy, all powered by cutting-edge ZK-SNARK proofs.
 
 ## 💭 My Thoughts
+- **Illya's Thoughts**: [https://illya.sh/thoughts/](https://illya.sh/thoughts/) is where you can find my latest microblog style posts on the topics of finance, cryptocurrency, blockchain and AI.
 - **Blog**: Dive into my thoughts on blockchain, DeFi, AI, and more on my [blog](https://illya.sh/blog/). It's where I connect deep technical concepts with real-world applications.
 
 ## 📫 Get in Touch
