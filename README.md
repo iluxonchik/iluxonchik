@@ -1,15 +1,3 @@
-# Illya Gerasymchuk - DeFi, Zero-Knowledge, Blockchain and AI
+# Illya Gerasymchuk
 
-👋 I'm Illya, an entrepreneur and engineer deeply invested in the realms of DeFi, Zero-Knowledge, Blockchain, and AI. As a TLS 1.3 Contributor and Contributing Member of the Python Software Foundation, I'm passionate about developing revolutionary products that redefine our interactions with money and bolster our digital privacy.
-
-## 🚀 Current Project: zkLocus
-My latest venture, [zkLocus](https://zklocus.dev), is at the forefront of location authentication technology. This project enables service providers to verify users' geographical locations while rigorously protecting their privacy, all powered by cutting-edge ZK-SNARK proofs.
-
-## 💭 My Thoughts
-- **Illya's Thoughts**: [https://illya.sh/thoughts/](https://illya.sh/thoughts/) is where you can find my latest microblog style posts on the topics of finance, cryptocurrency, blockchain and AI.
-- **Blog**: Dive into my thoughts on blockchain, DeFi, AI, and more on my [blog](https://illya.sh/blog/). It's where I connect deep technical concepts with real-world applications.
-
-## 📫 Get in Touch
-- [illya.sh](https://illya.sh) is my main website. There you can find my contact information, as well as learn more about my current ventures.
-- [GitHub/iluxonchik](https://github.com/iluxonchik) is where you can find all of the engineering source, and my contributions.
-- [illya.sh/blog](https://illya.sh/blog) serves as a platform for me to articulate my thoughts on blockchain, DeFi, Zero-Knowledge cryptography, AI and finance. Here I merge deep technical concepts with practical applications.
+👋 Hello, I’m Illya Gerasymchuk — a software engineer and finance professional focused on full-stack development of consumer and financial software. I work across quantitative modeling/ML, financial market microstructure, cryptographic protocol design and implementation (DeFi, smart contracts, Zero-Knowledge Proofs), agentic AI systems and traditional consumer software. My open-source contributions include the IETF TLS 1.3 (RFC 8446) and DTLS 1.3 specifications, zkLocus protocol, over 100 projects on GitHub, and published work on law, computer security, and financial markets.
